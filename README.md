@@ -1,10 +1,9 @@
 ## Hello World 🌍
 ### 💫About Me :
 👨‍🎓 I am a BCA Student
-
-❤️ I am pretty much love in with technology
-
+❤️ I love Technology
 🧑‍💻 I like building for the Web
+🎵 I love listening to Music
 
 
 ## 🌐Socials
