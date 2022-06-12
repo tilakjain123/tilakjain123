@@ -12,7 +12,7 @@
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_dev_) 
 
-Here, I post regular Articles on Web Development!
+👆Here, I post regular Articles on Web Development!
 
 
 ---
