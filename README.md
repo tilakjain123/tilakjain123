@@ -14,6 +14,10 @@
 
 👆Here, I post regular Articles on Web Development!
 
+<h3 align="left">Other Tools:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilakjain123&show_icons=true&locale=en" alt="tilakjain123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&" alt="tilakjain123" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tilakjain123&icon=1&color=0)](https://visitcount.itsvg.in)
