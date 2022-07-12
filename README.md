@@ -1,6 +1,6 @@
 ## Hello World 🌍
 
-<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="50%">
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 
 ### 💫About Me :
 👨‍🎓 I am a BCA Student
