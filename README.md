@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/tilakjain123/tilakjain123/blob/main/github-header-image%20(1).png?raw=true)
 
 #### 🎉 Updates:
 
