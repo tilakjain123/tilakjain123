@@ -1,4 +1,4 @@
-![Header](https://github.com/tilakjain123/tilakjain123/blob/main/github-header-image%20(1).png?raw=true)
+![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)
 
 #### 🎉 Updates:
 
